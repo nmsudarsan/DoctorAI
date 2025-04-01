@@ -72,3 +72,7 @@ pip install arxiv wikipedia
 
 ## License
 This project is open-source and available under the MIT License.
+
+## Author
+Sudarsan Nallur Murali
+
