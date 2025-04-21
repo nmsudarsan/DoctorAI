@@ -152,3 +152,8 @@ python voice_of_the_doctor.py
 python gradio_app.py
 ```
 
+
+Architecture:
+
+![image](https://github.com/user-attachments/assets/6f7f0dc8-1758-452a-9e6b-71549d02c645)
+
